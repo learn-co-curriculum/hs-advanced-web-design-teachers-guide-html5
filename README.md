@@ -65,3 +65,5 @@ If you really want to create an interactive web application with JavaScript your
 	+ $('#foo').val(' ');
 + We’re going to spend the rest of the day practicing this with a calculator input lab and a task lister lab.
 
+
+<a href='https://learn.co/lessons/hs-advanced-web-design-teachers-guide-html5' data-visibility='hidden'>View this lesson on Learn.co</a>
